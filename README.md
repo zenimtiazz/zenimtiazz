@@ -8,4 +8,4 @@
 
 ## :link: :chart_with_upwards_trend:GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenimtiazz&theme=github_dark&show_icons=true)
-)](https://github.com/zenimtiazz/github-readme-stats)
+](https://github.com/zenimtiazz/github-readme-stats)
