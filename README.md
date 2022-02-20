@@ -1,12 +1,12 @@
-# :wave: Hi there!, I am [Zain](https://github.com/zenimtiazz)
+# :wave: Hi there! I am [Zain](https://github.com/zenimtiazz)
 
-## :round_pushpin:Find me at
+## :round_pushpin: Find me at
 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=plastic-square&logo=github&logoColor=white&link=https://github.com/zenimtiazz/)](https://github.com/zenimtiazz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/zain-i-745085219/)](https://www.linkedin.com/in/zain-i-745085219/)
 [![Website monip.org](https://img.shields.io/website-up-down-green-red/http/resumee.herokuapp.com/)](https://resumee.herokuapp.com/)
 
-## :information_source:A little about me...
+## :information_source: A little about me...
 
 I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing my passion for coding and learning.
 
@@ -16,7 +16,7 @@ I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing
 - 💬 Ask me about anything, what I don't know yet, I can research and learn about
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:zenimtiazz@gmail.com)](mailto:zenimtiazz@gmail.com)
 
-## :speech_balloon:Languages, tools and more ...
+## :speech_balloon: Languages, tools and more ...
 
 #### Language:
 
@@ -52,7 +52,7 @@ I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing
 ![DBeaver](https://img.shields.io/badge/-DBeaver-353535?style=plastic-square&logo=DBeaver)
 ![Office](https://img.shields.io/badge/-Office-353535?style=plastic-square&logo=microsoftoffice&logoColor=firebrick)
 
-## :computer:My setup
+## :computer: My setup
 
 |                   |                                                                                                                               |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
