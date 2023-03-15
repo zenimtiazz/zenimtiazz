@@ -8,11 +8,8 @@
 
 ## :information_source: A little about me...
 
-I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing my passion for coding and learning.
-
-- 🔭 I’m currently working on my Becode training, learning as much as I can as fast as I can :mortar_board:
-- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- 👯 I’m looking to collaborate with anyone willing to guide me along my dev journey
+I'm a Web Developer having 3 years of experience in development.
+- 🌱 I’m currently working in python
 - 💬 Ask me about anything, what I don't know yet, I can research and learn about
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:zenimtiazz@gmail.com)](mailto:zenimtiazz@gmail.com)
 
@@ -20,11 +17,12 @@ I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing
 
 #### Language:
 
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![DRF](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML-353535?style=plastic-square&logo=html5)
 ![css](https://img.shields.io/badge/-CSS-353535?style=plastic-square&logo=css3&logoColor=dodgerblue)
 ![javascript](https://img.shields.io/badge/-Javascript-353535?style=plastic-square&logo=javascript)
-![typescript](https://img.shields.io/badge/-Typescript-353535?style=plastic-square&logo=typescript)
-![php](https://img.shields.io/badge/-PHP-353535?style=plastic-square&logo=php)
 
 #### Frameworks and libraries:
 
